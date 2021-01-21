@@ -1,5 +1,5 @@
 ---
-category: 'expériences'
+category: 'experiences'
 company: 'HexaStack'
 position: 'Stagiaire'
 startDate: 'Juin 2018'
