@@ -1,8 +1,8 @@
 ---
 category: 'hero section'
-title: 'Développeur d'application Junior'
-subtitle: 'Etudiant en alternance'
-content: 'Je suis actuellement formation de cycle d'ingénieur a ESPRIT en alternance et j'occupe la poste de développeur d'application chez Vermeg.'
+title: 'Frontend Developer'
+subtitle: 'I am the Great Gatsby'
+content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
 linkTo: '/resume/'
-linkText: 'Voire mon CV'
+linkText: 'View My Profile'
 ---
