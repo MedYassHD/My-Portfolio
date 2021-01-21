@@ -1,9 +1,10 @@
 ---
-category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+category: 'expériences'
+company: 'HexaStack'
+position: 'Stagiaire'
+startDate: 'Juin 2018'
+endDate: 'Juillet 2018'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Création d'un chatbot au profit d'une startup tunisienne.
+Compétences acquis : AI, NLP.

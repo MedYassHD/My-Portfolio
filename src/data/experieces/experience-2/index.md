@@ -1,11 +1,10 @@
 ---
-category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+category: 'expériences'
+company: 'MpSOFT'
+position: 'Stagiaire'
+startDate: 'Février 2019'
+endDate: 'Juin 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Stage fin d'étude, mission développement d'une application de gestion de courrier électronique.
+Compétences acquis : JAVA, JEE, JAVA mail.
