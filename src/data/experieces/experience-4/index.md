@@ -1,5 +1,5 @@
 ---
-category: 'expériences'
+category: 'experiences'
 company: 'MpSOFT'
 position: 'Stagiaire'
 startDate: 'Février 2019'
