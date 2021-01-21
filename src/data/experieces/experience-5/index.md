@@ -1,5 +1,5 @@
 ---
-category: 'expériences'
+category: 'experiences'
 company: 'Vermeg'
 position: "Développeur d'application"
 startDate: 'Septembre 2019'
