@@ -1,9 +1,9 @@
 ---
 category: 'expériences'
 company: 'Vermeg'
-position: 'Développeur d'application'
-startDate: 'Septembre 20139
-endDate: 'Aujord'huit'
+position: "Développeur d'application"
+startDate: 'Septembre 2019'
+endDate: 'Aujourd’hui'
 ---
 
 Missions : -Support client de service Palmyra.
