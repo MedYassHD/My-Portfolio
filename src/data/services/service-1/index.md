@@ -1,6 +1,7 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'Dévoloppement BackEnd'
 icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'D'après mes expériences professionnelles j'ai appris
+le développement backend principalement avec le langage JAVA.'
 ---

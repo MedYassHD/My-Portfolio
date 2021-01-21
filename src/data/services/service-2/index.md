@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Graphic Design'
+title: 'Conception graphique'
 icon: 'draw-polygon'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'La conception graphique c'est l'un de mes centres d'intérêt j'ai appris cette compétence dès mes premières années a l'université et j'ai l'appliquer principalement en travail associatif.'
 ---
