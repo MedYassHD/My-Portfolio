@@ -30,7 +30,7 @@ const Logo = () => {
       <Styled.Image>
         <Img fluid={logoImage} alt={logoTitle} />
       </Styled.Image>
-      <Styled.Text>"MY Haj Dahmen"</Styled.Text>
+      <Styled.Text>MYHajDahmen</Styled.Text>
     </Styled.Logo>
   );
 };
