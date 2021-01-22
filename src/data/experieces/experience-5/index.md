@@ -6,9 +6,4 @@ startDate: 'Septembre 2019'
 endDate: 'Aujourd’hui'
 ---
 
-_ Missions : _ Support client de service Palmyra.
-           _ Responsable de la partie développement de l'évolution palmyra compatible avec java 11.
-           _ Responsable de la partie développement de l'évolution palmyra se compile avec java 11.
-           _ Développement de la tache Opening Security coté Palmyra IDE.
-           _ Développement de la tache openAPI3 coté Palmyra IDE.
-_ Compétences acquis : JAVA 8, JAVA 11, Maven, Eclipse.
+Durant l'année et demie chez Vermeg j'ai travaillé sur plusieurs missions, j'ai été responsable de la phase développement de la tache Palmyra support java 11 et Palmyra compile avec java 11 et j'ai travaillé sur quel que tache d'opening et support client pour les anciens versions Palmyra. Je note les compétences acquis dans cette période principalement java 8 et 11, Maven et Eclipse.
