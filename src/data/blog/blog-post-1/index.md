@@ -2,7 +2,7 @@
 category: 'blog'
 cover: './cover.jpg'
 title: 'Certificat JAVA'
-description: "Certificat java que j'ai reussir de complete le cours de la platforme Lynda."
+description: "Ce cours englobe les niveaux Basic et intermédiaire du langage de programmation java après terminer la cour j'ai passé un test et j'ai réussi d'obtenir ce certificat de la part de la plateforme Lynda."
 date: '2020-10'
 tags: ['JAVA']
 published: true
@@ -10,4 +10,4 @@ published: true
 
 ![Certificat JAVA](./cover.jpg)
 
-Certificat java que j'ai reussir de complete le cours de la platforme Lynda.
+Ce cours englobe les niveaux Basic et intermédiaire du langage de programmation java après terminer la cour j'ai passé un test et j'ai réussi d'obtenir ce certificat de la part de la plateforme Lynda.
