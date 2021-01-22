@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'TypeScript'
-percentage: 76
+title: 'JAVA 11'
+percentage: 60
 ---

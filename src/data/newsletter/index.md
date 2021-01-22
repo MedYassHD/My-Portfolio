@@ -1,8 +1,8 @@
 ---
 category: 'newsletter section'
 title: 'Newsletter '
-subtitle: 'Subscribe to my mailing list'
-namePlaceholder: 'First Name'
+subtitle: 'INSCRIVEZ-VOUS À MA LISTE D'ENVOI'
+namePlaceholder: 'Nom et prénom'
 emailPlaceholder: 'Email'
-submitPlaceholder: 'Subscribe'
+submitPlaceholder: 'Inscrire'
 ---

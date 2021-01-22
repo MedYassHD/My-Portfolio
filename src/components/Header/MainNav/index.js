@@ -4,11 +4,11 @@ import * as Styled from './styles';
 
 const mainNavItems = [
   {
-    title: 'About Me',
+    title: 'À propos de moi',
     slug: '/'
   },
   {
-    title: 'Resume',
+    title: 'Curriculum vitae',
     slug: '/resume/'
   },
   {
@@ -16,7 +16,7 @@ const mainNavItems = [
     slug: '/blog/'
   },
   {
-    title: 'Contact Me',
+    title: 'Contactez moi',
     slug: '/contact/'
   }
 ];

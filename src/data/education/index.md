@@ -1,5 +1,5 @@
 ---
 category: 'education section'
-title: 'Education'
-subtitle: 'My Qualification'
+title: 'Éducation'
+subtitle: 'Mes diplômes'
 ---

@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'CSS'
+title: 'JAVA 8'
 percentage: 73
 ---

@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'HTML'
+title: 'Maven'
 percentage: 60
 ---
